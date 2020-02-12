@@ -1,2 +1,0 @@
-# Kaliber-Config-properties
-
